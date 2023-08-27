@@ -1,6 +1,6 @@
 {
     "name": "xiaohuasheng0x1/web3-php",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
